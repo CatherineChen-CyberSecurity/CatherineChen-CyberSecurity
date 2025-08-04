@@ -57,6 +57,8 @@
     <img alt="Atlantis" src="https://custom-icon-badges.demolab.com/badge/Atlantis-002244.svg?logo=terraform&logoColor=white"/>
     <img alt="CI/CD" src="https://img.shields.io/badge/CI%2FCD-20C997.svg?logo=githubactions&logoColor=white"/>
     <img alt="ArgoCD" src="https://img.shields.io/badge/ArgoCD-EF7B4D.svg?logo=argo&logoColor=white"/>
+    <img alt="Kafka" src="https://img.shields.io/badge/Kafka-231F20.svg?logo=apachekafka&logoColor=white"/>
+    <img alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ-FF6600.svg?logo=rabbitmq&logoColor=white"/>
   </p>
 
   <h3>🔒 Security & Networking</h3>
