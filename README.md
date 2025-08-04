@@ -33,6 +33,9 @@
     <a href="https://github.com/CatherineChen-CyberSecurity/aws-secure-iac-demo">
       <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CatherineChen-CyberSecurity&repo=aws-secure-iac-demo&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="AWS IaC Demo">
     </a>
+    <a href="https://github.com/CatherineChen-CyberSecurity/eventDrivenDemo">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CatherineChen-CyberSecurity&repo=eventDrivenDemo&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="Event Driven Demo">
+    </a>
   </p>
 
   <a href="https://github.com/CatherineChen-CyberSecurity?tab=repositories&sort=stargazers">
